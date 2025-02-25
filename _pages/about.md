@@ -15,7 +15,7 @@ Education 🎓
 
 • Bachelor of Engineering in Computer Technology and Science
 
-• GPA: 93.812/100(3.959/4.0), Ranking: 16/31
+• GPA: 93.812/100(3.959/4.0), Ranking: 16/315(Top 5%)
 
 **LMH summer programme 2024 (08/2024)**
 
