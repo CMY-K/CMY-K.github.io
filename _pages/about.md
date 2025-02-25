@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student majoring in Computer Technology and Science at Harbin Institute of Technology, Shenzhen (HITSZ), under the guidance of [Full Professor Cuiyun Gao](https://cuiyungao.github.io). My academic focus lies in large code models(LCMs), and I am preparing to apply for 26Fall Ph.D. in Hong Kong to.
+I am a third-year undergraduate student majoring in Computer Technology and Science at Harbin Institute of Technology, Shenzhen (HITSZ), under the guidance of [Full Professor Cuiyun Gao](https://cuiyungao.github.io). My academic focus lies in large code models(LCMs), and I am preparing to apply for 26Fall Ph.D. in Hong Kong.
 
 Education 🎓
 ------
