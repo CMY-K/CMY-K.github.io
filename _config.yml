@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Third-year undergraduate student at Harbin Institute of Technology, Shenzhen (HITSZ)"
   location         : "Shenzhen, China"
-  employer         : "Harbin Institute of Technology, Shenzhen"
-  uri              : https://cmy-k.github.io
+  employer         : "HITSZ"
+  uri              : # https://cmy-k.github.io
   email            : "220110123@stu.hit.edu.cn" 
 
   # Academic websites
