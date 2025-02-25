@@ -46,4 +46,4 @@ Second Prize, Guangdong Contemporary Undergraduate Mathematical Contest in Model
 
 Contact me! ✉️
 ------
-You can reach me at 220110123@stu.hit.edu.cn!
+You can reach me at 2963993858@qq.com!
