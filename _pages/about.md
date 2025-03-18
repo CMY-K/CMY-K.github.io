@@ -13,7 +13,7 @@ Education 🎓
 ------
 **Harbin Institute of Technology, Shenzhen (09/2022 – present)**
 
-• Bachelor of Engineering in Computer Technology and Science
+• Undergraduate student in Computer Technology and Science
 
 • GPA: 3.917/4.0
 
