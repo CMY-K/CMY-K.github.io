@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 I’m a Third-year undergraduate student in the School of Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I will receive my Bachelor’s degree from Harbin Institute of Technology, Shenzhen in June 2026. And I'm applying for 26fall Ph.D.
-
 🧠 My current research interest focuses on LLM-based DevOps automation and code intelligence. 
-
 📮Although I am still in the exploration stage, I am always open to discussions and collaborations! Feel free to  [contact](mingyuchen8248@gmail.com) me.
 
 
