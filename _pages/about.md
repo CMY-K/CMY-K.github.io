@@ -15,7 +15,7 @@ redirect_from:
   🧠 My current research interest focuses on LLM-based DevOps automation and code intelligence.
 </div>
 
-<div style="text-align: justify;">
+<div>
   📮 Although I am still in the exploration stage, I am always open to discussions and collaborations! Feel free to <a href="mailto:mingyuchen8248@gmail.com">contact</a> me.
 </div>
 
