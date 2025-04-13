@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; margin-bottom: -10px;">
+<div margin-bottom: -5px;">
   I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I will receive my Bachelor’s degree from Harbin Institute of Technology, Shenzhen in June 2026. And I'm applying for 26fall Ph.D.
 </div>
 
-<div style="text-align: justify; margin-bottom: -10px;">
+<div margin-bottom: -5px;">
   🧠 My current research interest focuses on LLM-based DevOps automation and code intelligence.
 </div>
 
-<div style="text-align: justify;">
+<div justify;">
   📮 Although I am still in the exploration stage, I am always open to discussions and collaborations! Feel free to <a href="mailto:mingyuchen8248@gmail.com">contact</a> me.
 </div>
 
