@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-bottom: -3px;">
-  I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026. And I'm applying for 26fall Ph.D.
+<div style="margin-bottom: -1px;">
+  I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>.  I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026.   And I'm applying for 26fall Ph.D.
 </div>
 
-<div style="margin-bottom: -3px;">
+<div style="margin-bottom: -1px;">
   🧠 My research interest focuses on LLM-based DevOps automation and code intelligence.
 </div>
 
 <div>
-  📮 Although I'm still in the exploration stage, I am always open to discussions and collaborations! Feel free to <a href="mailto:mingyuchen8248@gmail.com">contact</a> me!
+  📮 While I am still exploring, I am always open to engaging in discussions and collaborations! Feel free to <a href="mailto:mingyuchen8248@gmail.com">contact</a> me!
 </div>
 
 
