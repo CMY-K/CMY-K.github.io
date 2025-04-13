@@ -28,18 +28,10 @@ I’m a Third-year undergraduate student in the School of Computer Science and T
 🏆 Honors and Awards 
 ------
 
-*2024.12* 🎖️🎖️ **National Scholarship**
-
-*2024.11* 🎖️🎖️ **The First Prize Scholarship**
-
-*2024.11* 🎖️🎖️ **National Second Prize**, Special Competition of "Jiebang Guashuai" in the "Challenge Cup"
-
-*2024.05* 🎖️🎖️ **First Prize**, 15th “Lanqiao” Cup, Guangdong Division
-
-*2024.02* 🎖️🎖️ **Honorable Mention**, Mathematical Contest in Modeling
-
-*2023.11* 🎖️🎖️ **The First Prize Scholarship**
-
-*2023.11* 🎖️🎖️ **Bronze Medal**, 2023 China Collegiate Programming Contest for Girls
-
-*2023.09* 🎖️🎖️ **Second Prize**, Guangdong Contemporary Undergraduate Mathematical Contest in Modeling
+* *2024.12* 🎖️🎖️ **National Scholarship**
+* *2024.11* 🎖️🎖️ **The First Prize Scholarship**
+* *2024.11* 🎖️🎖️ **National Second Prize**,  "Jiebang Guashuai" in the "Challenge Cup
+* *2024.05* 🎖️🎖️ **First Prize**, 15th “Lanqiao” Cup, Guangdong Division
+* *2024.02* 🎖️🎖️ **Honorable Mention**, Mathematical Contest in Modeling
+* *2023.11* 🎖️🎖️ **The First Prize Scholarship**
+* *2023.11* 🎖️🎖️ **Bronze Medal**, 2023 China Collegiate Programming Contest for Girls
