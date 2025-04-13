@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingyu Chen"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 <div style="margin-bottom: -3px;">
-  I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I will receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026. And I'm applying for 26fall Ph.D.
+  I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026. And I'm applying for 26fall Ph.D.
 </div>
 
 <div style="margin-bottom: -3px;">
-  🧠 My current research interest focuses on LLM-based DevOps automation and code intelligence.
+  🧠 My research interest focuses on LLM-based DevOps automation and code intelligence.
 </div>
 
 <div>
-  📮 Although I am still in the exploration stage, I am always open to discussions and collaborations! Feel free to <a href="mailto:mingyuchen8248@gmail.com">contact</a> me.
+  📮 Although I'm still in the exploration stage, I am always open to discussions and collaborations! Feel free to <a href="mailto:mingyuchen8248@gmail.com">contact</a> me!
 </div>
 
 
