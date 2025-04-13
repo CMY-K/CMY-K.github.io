@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="margin-bottom: -5px;">
-  I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I will receive my Bachelor’s degree from Harbin Institute of Technology, Shenzhen in June 2026. And I'm applying for 26fall Ph.D.
+  I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I will receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026. And I'm applying for 26fall Ph.D.
 </div>
 
 <div style="margin-bottom: -5px;">
