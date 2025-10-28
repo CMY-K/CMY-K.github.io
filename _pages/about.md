@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="margin-bottom: -1px;">
-👩🏻‍💻 I’m a Third-year undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>.  I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026.   And I'm applying for 26fall Ph.D.
+👩🏻‍💻 I’m a undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>.  I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026.   And I'm applying for 26fall Ph.D.
 </div>
 
 <div style="margin-bottom: -1px;">
@@ -33,10 +33,12 @@ redirect_from:
 🏆 Honors and Awards 
 ------
 
+* *2025.10* 🎖️🎖️ **Tat-Seng Chua Scholarship**
+* *2025.09* 🎖️🎖️ **The First-Class Academic Scholarship**
 * *2024.12* 🎖️🎖️ **National Scholarship**
-* *2024.11* 🎖️🎖️ **The First Prize Scholarship**
+* *2024.11* 🎖️🎖️ **The First-Class Academic Scholarship**
 * *2024.11* 🎖️🎖️ **National Second Prize**,  "Jiebang Guashuai" in the "Challenge Cup
-* *2024.05* 🎖️🎖️ **First Prize**, 15th “Lanqiao” Cup, Guangdong Division
+* *2024.05* 🎖️🎖️ **The First-Class Academic Scholarship**, 15th “Lanqiao” Cup, Guangdong Division
 * *2024.02* 🎖️🎖️ **Honorable Mention**, Mathematical Contest in Modeling
-* *2023.11* 🎖️🎖️ **The First Prize Scholarship**
+* *2023.11* 🎖️🎖️ **The First-Class Academic Scholarship**
 * *2023.11* 🎖️🎖️ **Bronze Medal**, 2023 China Collegiate Programming Contest for Girls
