@@ -38,7 +38,7 @@ redirect_from:
 * *2024.12* 🎖️🎖️ **National Scholarship**
 * *2024.11* 🎖️🎖️ **The First-Class Academic Scholarship**
 * *2024.11* 🎖️🎖️ **National Second Prize**,  "Jiebang Guashuai" in the "Challenge Cup
-* *2024.05* 🎖️🎖️ **The First-Class Academic Scholarship**, 15th “Lanqiao” Cup, Guangdong Division
+* *2024.05* 🎖️🎖️ **The First Prize**, 15th “Lanqiao” Cup, Guangdong Division
 * *2024.02* 🎖️🎖️ **Honorable Mention**, Mathematical Contest in Modeling
 * *2023.11* 🎖️🎖️ **The First-Class Academic Scholarship**
 * *2023.11* 🎖️🎖️ **Bronze Medal**, 2023 China Collegiate Programming Contest for Girls
