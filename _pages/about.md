@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="margin-bottom: -1px;">
-👩🏻‍💻 I’m an undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>.  I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026.   And I'm applying for 26fall Ph.D.
+👩🏻‍💻 I’m an undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a> and Prof. <a href="[https://cuiyungao.github.io](https://yakzhang.github.io/)/">Yakun Zhang</a>.  I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026.   And I'm applying for 26fall Ph.D.
 </div>
 
 <div style="margin-bottom: -1px;">
