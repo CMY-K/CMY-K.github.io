@@ -35,12 +35,12 @@ redirect_from:
 🏆 Honors and Awards 
 ------
 
-* *2025.10* 🎓 **Tat-Seng Chua Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray">(Top1%)</font>
-* *2025.09* 🎓 **The First-Class Academic Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray">(Top5%)</font>
-* *2024.12* 🎓 **National Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray">(Top1%)</font>
-* *2024.11* 🎓 **The First-Class Academic Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray">(Top5%)</font>
+* *2025.10* 🎓 **Tat-Seng Chua Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray"> (Top1%)</font>
+* *2025.09* 🎓 **The First-Class Academic Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray"> (Top5%)</font>
+* *2024.12* 🎓 **National Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray"> (Top1%)</font>
+* *2024.11* 🎓 **The First-Class Academic Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray"> (Top5%)</font>
 * *2024.11* 🥈 **National Second Prize**,  "Jiebang Guashuai" in the "Challenge Cup", Harbin Institute of Technology, Shenzhen
 * *2024.05* 🏅 **The First Prize**, 15th “Lanqiao” Cup, Guangdong Division
 * *2024.02* 🥈 **Honorable Mention**, Mathematical Contest in Modeling
-* *2023.11* 🎓 **The First-Class Academic Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray">(Top1%)</font>
+* *2023.11* 🎓 **The First-Class Academic Scholarship**, Harbin Institute of Technology, Shenzhen<font color="gray"> (Top1%)</font>
 * *2023.11* 🥉 **Bronze Medal**, 2023 China Collegiate Programming Contest for Girls

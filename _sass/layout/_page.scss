@@ -73,10 +73,14 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #0033cc;
+    font-weight: bold;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: #002288;
+      font-weight: bold;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
