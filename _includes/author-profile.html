@@ -18,6 +18,35 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.motto %}
+    <p class="author__motto" style="font-style: italic; color: #666; font-size: 0.9em; margin-top: 0.3em; min-height: 1.2em;">
+      <span id="motto-text"></span><span class="motto-cursor">|</span>
+    </p>
+    <script>
+    (function() {
+      const text = '"{{ author.motto }}"';
+      const el = document.getElementById('motto-text');
+      let i = 0;
+      function type() {
+        if (i < text.length) {
+          el.textContent += text.charAt(i);
+          i++;
+          setTimeout(type, 80);
+        }
+      }
+      setTimeout(type, 500);
+    })();
+    </script>
+    <style>
+    .motto-cursor {
+      animation: blink 1s step-end infinite;
+      color: #666;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    </style>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
