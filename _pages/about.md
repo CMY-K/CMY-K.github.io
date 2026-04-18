@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="margin-bottom: -1px;">
-👩🏻‍💻 I’m an undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a> and Prof. <a href="https://yakzhang.github.io/">Yakun Zhang</a>.  I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026.   I am an incoming Ph.D. student at <a href="https://sds.cuhk.edu.cn/">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a>, advised by Prof. <a href="https://pinjiahe.github.io/">Pinjia He</a>.
+👩🏻‍💻 I’m an undergraduate student in the School of Computer Science and Technology at <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a> and Prof. <a href="https://yakzhang.github.io/">Yakun Zhang</a>.  I am going to receive my Bachelor’s degree from <a href="http://cs.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a> in June 2026.   I am an incoming Ph.D. student at <a href="https://sds.cuhk.edu.cn/">The Chinese University of Hong Kong, Shenzhen</a>, advised by Prof. <a href="https://pinjiahe.github.io/">Pinjia He</a>.
 </div>
 
 <div style="margin-bottom: -1px;">
